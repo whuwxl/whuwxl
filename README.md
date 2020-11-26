@@ -1,5 +1,7 @@
-### Hi there 👋
+### About
 
-- 🔭 I’m currently working on part-time private projects (will be public someday).
-- 🌱 I’m currently learning golang and swift.
-- 📫 How to reach me: You can email me at whuwxl@gmail.com.
+- **Learning :** Machine Learning :fire: | Quantitative Finance :boom:
+- **Languages :** C++, Go, Swift, Python
+- **Organization :** @Tencent
+
+![whuwxl's github stats](https://github-readme-stats.vercel.app/api?username=whuwxl&count_private=true&show_icons=true&theme=monokai)
