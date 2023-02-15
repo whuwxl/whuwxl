@@ -4,6 +4,6 @@
 - **Languages :** C++, Go, Swift, Python
 - **Organization :** @Tencent
 
-![whuwxl's github stats](https://github-readme-stats.vercel.app/api?username=whuwxl&count_private=true&show_icons=true)
+![whuwxl's github stats](https://github-readme-stats-whuwxl.vercel.app/api?username=whuwxl&count_private=true&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whuwxl&layout=compact)
+![Top Langs](https://github-readme-stats-whuwxl.vercel.app/api/top-langs/?username=whuwxl&layout=compact)
